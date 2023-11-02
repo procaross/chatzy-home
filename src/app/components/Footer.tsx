@@ -5,7 +5,7 @@ import React from 'react';
 
 const Footer: React.FC = () => {
   return (
-    <footer className="footer z-10 mt-[10rem] flex items-center justify-center border border-l-transparent border-r-transparent border-t-[#33353F] text-white">
+    <footer className="footer z-10 mt-[10rem] flex items-center justify-center border-t border-l-transparent border-r-transparent border-t-[#33353F] text-white">
       <div className="container flex w-full flex-col items-center justify-between py-4 sm:flex-row">
         <Link
           href={'/'}
