@@ -63,7 +63,7 @@ const HeroSection: React.FC<Props> = () => {
             </Link>
 
             <Link
-              href="/"
+              href="https://github.com/procaross/chatzy-home"
               className="mt-3 inline-block w-full rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 px-1 py-1 text-white hover:bg-slate-800 sm:w-fit"
             >
               <span className="block rounded-full bg-[#121212] px-5 py-2 transition hover:bg-slate-800">
